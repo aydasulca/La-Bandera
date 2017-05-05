@@ -1,5 +1,7 @@
 section {
-  display: inline-block;
+  border: 2px solid #B1B1B1;
+  margin: 10px;
+  overflow: auto;
 }
 div {
   width: 216px;
@@ -14,3 +16,6 @@ div {
 #rojo {
   background-color: #dc0000;
 }
+ .float-left {
+   float: left;
+ }
