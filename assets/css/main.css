@@ -7,13 +7,13 @@ div {
   width: 337.25px;
   height: 337.25px;
 }
-#amarillo {
+.amarillo {
   background-color: #ffff00;
 }
-#azul {
+.azul {
   background-color: #0000ba;
 }
-#rojo {
+.rojo {
   background-color: #dc0000;
 }
  .float-left {
