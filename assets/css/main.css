@@ -1,0 +1,16 @@
+section {
+  display: inline-block;
+}
+div {
+  width: 216px;
+  height: 216px;
+}
+#amarillo {
+  background-color: #ffff00;
+}
+#azul {
+  background-color: #0000ba;
+}
+#rojo {
+  background-color: #dc0000;
+}
